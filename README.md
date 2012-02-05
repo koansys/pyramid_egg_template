@@ -10,7 +10,7 @@ replacing x.x.x whatever the current version is and untar it
 
 ## Cloned
 
-or if you have atemplate cloned *git clone git@github.com:koansys/pyramid_egg_template.git* run
+or if you have atemplate cloned `git clone git@github.com:koansys/pyramid_egg_template.git` run
 
   - $ git checkout-index -a -f --prefix=/path/to/mypackage_name/
   
