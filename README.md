@@ -5,7 +5,7 @@
 grab a tarball from [https://github.com/koansys/pyramid__egg_template/tarball/x.x.x](https://github.com/koansys/pyramid__egg_template/tarball/x.x.x)
 replacing x.x.x whatever the current version is and untar it
 
- - $ curl https://github.com/koansys/pyramid__egg_template/tarball/1.1.0 | tar zxf -
+ - $ curl -L https://github.com/koansys/pyramid__egg_template/tarball/1.1.0 | tar zxf -
 
 
 ## Cloned
