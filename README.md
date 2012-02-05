@@ -18,4 +18,4 @@ or if you have atemplate cloned `git clone git@github.com:koansys/pyramid_egg_te
 
   - $ cd /path/to/mypackage_name
   - $ mv atemplate mypackage_name
-  - $ perl -p -i -e "s/atemplate/mypackage_name/g" \`grep -ril atemplate \`
+  - $ perl -p -i -e "s/atemplate/mypackage_name/g" \`find . \`
