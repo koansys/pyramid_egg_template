@@ -1,4 +1,4 @@
-/*global document:true, $:true window:true *//*jslint indent:4 maxlen:80 */// Default JS file
+/*global document:true, $:true window:true  *//*jshint indent:4 maxlen:80 laxcomma:true */// Default JS file
 /*
 
 To configure the warn if modified alert do something like the following:

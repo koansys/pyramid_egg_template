@@ -1,5 +1,5 @@
-/*global document:true, $:true window:true */
-/*jslint indent:4 maxlen:80 */
+/*global document:true, $:true window:true  */
+/*jshint indent:4 maxlen:80 laxcomma:true */
 // Default JS file
 
 /*

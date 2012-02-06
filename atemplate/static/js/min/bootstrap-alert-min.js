@@ -1,4 +1,4 @@
-/* ==========================================================
+/*global document:true, $:true window:true *//*jslint indent:3 maxlen:80 laxbreak:true *//* ==========================================================
  * bootstrap-alert.js v2.0.0
  * http://twitter.github.com/bootstrap/javascript.html#alerts
  * ==========================================================
